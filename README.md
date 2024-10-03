@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Titouan
 
 💻 Passionate about web development  
 📚 Currently learning at AFEC's school  
