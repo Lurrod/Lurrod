@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Passionate about web development
+Currently learning at AFEC's school.
+I speak French (mother tongue) and English fluently
+Interested in all web design project
 <!--
 **Lurrod/Lurrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
