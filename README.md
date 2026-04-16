@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Titouan
 
 💻 Passionate about web development  
-📚 Currently learning at AFEC's school  
+📚 Junior Web developer
 🗣 I speak French (mother tongue) and English fluently  
 🤝 Interested in all web design project  
 
