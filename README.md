@@ -1,5 +1,5 @@
 
-<h1 align="center">⚫ Titouan Borde</h1>
+<h1 align="center">Titouan Borde</h1>
 <p align="center">
   <i>Junior Web Developer — building clean & interactive web experiences</i>
 </p>
@@ -54,5 +54,4 @@ const titouan = {
 ---
 
 <p align="center">
-  ⚫
 </p>
