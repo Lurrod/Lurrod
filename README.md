@@ -27,7 +27,7 @@ const titouan = {
 ## ⚡ Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,node,express,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,express,tailwind,git" />
 </p>
 
 ---
@@ -57,4 +57,3 @@ const titouan = {
 <p align="center">
   ⚫
 </p>
-```
