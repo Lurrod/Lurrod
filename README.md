@@ -1,57 +1,72 @@
-
 <h1 align="center">Titouan Borde</h1>
+
 <p align="center">
-  <i>Junior Web Developer — building clean & interactive web experiences</i>
+  <i>Développeur web — je façonne des expériences digitales atmosphériques,<br/>
+  performantes et mémorables · là où le code devient matière.</i>
 </p>
 
 <p align="center">
-  <a href="https://titouan-borde.com">Portfolio</a> •
+  <a href="https://titouan-borde.com">Portfolio</a>
+  &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/titouan-borde-ab481833a/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/titouan.borde">Instagram</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-DÉVELOPPEUR%20WEB-0D0D0F?style=flat-square&labelColor=0D0D0F&color=BFA8FF" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-FRONTEND%20·%20UI%2FUX-0D0D0F?style=flat-square&labelColor=0D0D0F&color=A8D9FF" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-MODERN%20WEB-0D0D0F?style=flat-square&labelColor=0D0D0F&color=8D7CFF" />
 </p>
 
 ---
 
-## 🧠 About
+## À propos
 
 ```js
 const titouan = {
-  role: "Junior Web Developer",
-  focus: ["Frontend", "UI/UX", "Modern Web"],
-  vibe: "Minimalist, performant, creative",
-  currentGoal: "Level up & build cool things"
+  role: "Développeur web",
+  focus: ["Frontend", "UI/UX", "Web moderne"],
+  vibe: "Atmosphérique, performant, mémorable",
+  credo: "Là où le code devient matière",
+  enCours: "Progresser & créer des expériences qui marquent"
 };
-````
+```
 
 ---
 
-## ⚡ Stack
+## Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,express,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,tailwind,postgres,git&theme=dark" />
 </p>
 
 ---
 
-## 📊 Stats
+## Projets phares
+
+- **[Vol d'Histoire](https://vol-histoire.titouan-borde.com/)** — expérience web immersive · [`code`](https://github.com/Lurrod/vol_histoire)
+- **[Broken Esport](https://broken-esport.fr/)** — site associatif esport · stage professionnel
+
+---
+
+## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lurrod&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lurrod&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=lurrod&show_icons=true&hide_border=true&bg_color=0D0D0F&title_color=BFA8FF&text_color=F7F5F2&icon_color=A8D9FF" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lurrod&layout=compact&hide_border=true&bg_color=0D0D0F&title_color=BFA8FF&text_color=F7F5F2" />
+</p>
 
 ---
 
-## 🎯 Mindset
+## État d'esprit
 
-> "Keep it simple. Make it clean. Make it work."
-
----
-
-## 📫 Contact
-
-* 🌐 https://titouan-borde.com
-* 💼 https://www.linkedin.com/in/titouan-borde-ab481833a/
+> « Simple. Propre. Ça fonctionne. »
 
 ---
 
 <p align="center">
+  <a href="https://titouan-borde.com">titouan-borde.com</a>
 </p>
