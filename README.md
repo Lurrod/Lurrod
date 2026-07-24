@@ -48,8 +48,6 @@ const titouan = {
 ## Projets phares
 
 - **[Vol d'Histoire](https://vol-histoire.titouan-borde.com/)** — expérience web immersive · [`code`](https://github.com/Lurrod/vol_histoire)
-- **[Broken Esport](https://broken-esport.fr/)** — site associatif esport · stage professionnel
-
 ---
 
 ## Stats
